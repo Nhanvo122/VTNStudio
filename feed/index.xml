@@ -12,45 +12,12 @@
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nhanvo122.github.io/VTNStudio</link>
 	<description></description>
-	<lastBuildDate>Fri, 27 May 2022 11:53:47 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 31 May 2022 12:16:45 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.9.3</generator>
-	<item>
-		<title>Elementor #69</title>
-		<link>https://nhanvo122.github.io/VTNStudio/blog/2022/05/27/elementor-69/</link>
-					<comments>https://nhanvo122.github.io/VTNStudio/blog/2022/05/27/elementor-69/#respond</comments>
-		
-		<dc:creator><![CDATA[vonhan]]></dc:creator>
-		<pubDate>Fri, 27 May 2022 11:51:41 +0000</pubDate>
-				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">https://nhanvo122.github.io/VTNStudio/?p=69</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="69" class="elementor elementor-69">
-									<header class="elementor-section elementor-top-section elementor-element elementor-element-ceabd66 elementor-section-full_width elementor-section-content-top elementor-section-height-default elementor-section-height-default" data-id="ceabd66" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-extended">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0834795" data-id="0834795" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-9b81deb elementor-widget elementor-widget-image" data-id="9b81deb" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.6.5 - 27-04-2022 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="1024" height="522" src="https://nhanvo122.github.io/VTNStudio/wp-content/uploads/2022/05/01_home_slide.webp" class="attachment-large size-large" alt="" loading="lazy" />															</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</header>
-							</div>
-		]]></content:encoded>
-					
-					<wfw:commentRss>https://nhanvo122.github.io/VTNStudio/blog/2022/05/27/elementor-69/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-	</channel>
+</channel>
 </rss>
