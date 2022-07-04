@@ -11,11 +11,25 @@
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nhanvo122.github.io/VTNStudio</link>
 	<description></description>
-	<lastBuildDate>Mon, 27 Jun 2022 13:47:03 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Jun 2022 14:07:39 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.9.3</generator>
-</channel>
+	<item>
+		<title>
+		Phản hồi cho Bisous bởi vonhan		</title>
+		<link>https://nhanvo122.github.io/VTNStudio/san-pham/bisous/#comment-2</link>
+
+		<dc:creator><![CDATA[vonhan]]></dc:creator>
+		<pubDate>Tue, 28 Jun 2022 14:07:36 +0000</pubDate>
+		<guid isPermaLink="false">https://nhanvo122.github.io/VTNStudio/?post_type=product&#038;p=1124#comment-2</guid>
+
+					<description><![CDATA[jdkjtuk6iuk]]></description>
+			<content:encoded><![CDATA[<p>jdkjtuk6iuk</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
 </rss>

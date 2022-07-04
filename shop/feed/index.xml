@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/shop/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nhanvo122.github.io/VTNStudio</link>
 	<description></description>
-	<lastBuildDate>Mon, 20 Jun 2022 09:37:11 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Jun 2022 14:07:39 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -94,7 +94,7 @@ The signature of a Fiore bouquet is that no two bouquets are ever the same so ea
 		<item>
 		<title>Bisous</title>
 		<link>https://nhanvo122.github.io/VTNStudio/san-pham/bisous/</link>
-					<comments>https://nhanvo122.github.io/VTNStudio/san-pham/bisous/#respond</comments>
+					<comments>https://nhanvo122.github.io/VTNStudio/san-pham/bisous/#comments</comments>
 		
 		<dc:creator><![CDATA[vonhan]]></dc:creator>
 		<pubDate>Mon, 20 Jun 2022 08:12:31 +0000</pubDate>
@@ -111,7 +111,7 @@ Please note – the bouquet pictured represents a medium size. Whilst we make ev
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://nhanvo122.github.io/VTNStudio/san-pham/bisous/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 			</item>
