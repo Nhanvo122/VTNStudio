@@ -12,12 +12,20 @@
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/flowers/orchids/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nhanvo122.github.io/VTNStudio</link>
 	<description></description>
-	<lastBuildDate>Mon, 27 Jun 2022 13:47:03 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 11 Jul 2022 02:43:51 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>https://nhanvo122.github.io/VTNStudio/wp-content/uploads/2022/07/flower.webp</url>
+	<title>Orchids &#8211; Fióre</title>
+	<link>https://nhanvo122.github.io/VTNStudio</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 </channel>
 </rss>

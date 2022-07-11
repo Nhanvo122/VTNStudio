@@ -12,38 +12,22 @@
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/chua-phan-loai/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nhanvo122.github.io/VTNStudio</link>
 	<description></description>
-	<lastBuildDate>Tue, 28 Jun 2022 14:07:39 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 11 Jul 2022 00:54:22 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>https://nhanvo122.github.io/VTNStudio/wp-content/uploads/2022/07/flower.webp</url>
+	<title>FLOWER &#8211; Fióre</title>
+	<link>https://nhanvo122.github.io/VTNStudio</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
-		<title>Grace</title>
-		<link>https://nhanvo122.github.io/VTNStudio/san-pham/grace/</link>
-					<comments>https://nhanvo122.github.io/VTNStudio/san-pham/grace/#respond</comments>
-		
-		<dc:creator><![CDATA[vonhan]]></dc:creator>
-		<pubDate>Mon, 20 Jun 2022 09:37:09 +0000</pubDate>
-				<guid isPermaLink="false">https://nhanvo122.github.io/VTNStudio/?post_type=product&#038;p=1159</guid>
-
-					<description><![CDATA[Behold – the timeless elegance of magnificent white Avalanche roses and dainty camomille, weaving throughout. Grace’s simple beauty has cemented its place as a McQueens Flowers classic.
-
-Please note – the bouquet pictured represents a medium size. Whilst we make every effort to source the exact ingredients, occasionally it may be necessary for our florists to substitute with a similar stem.
-
-<a href="https://www.mcqueensflowers.com/collections/flowers/products/grace" target="_blank" rel="noopener">www.mcqueensflowers.com</a>]]></description>
-										<content:encoded><![CDATA[<p>Behold – the timeless elegance of magnificent white Avalanche roses and dainty camomille, weaving throughout. Grace’s simple beauty has cemented its place as a McQueens Flowers classic.</p>
-<p>Please note – the bouquet pictured represents a medium size. Whilst we make every effort to source the exact ingredients, occasionally it may be necessary for our florists to substitute with a similar stem.</p>
-<p><a href="https://www.mcqueensflowers.com/collections/flowers/products/grace" target="_blank" rel="noopener">www.mcqueensflowers.com</a></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://nhanvo122.github.io/VTNStudio/san-pham/grace/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
 		<title>Fortune favours</title>
 		<link>https://nhanvo122.github.io/VTNStudio/san-pham/fortune-favours/</link>
 					<comments>https://nhanvo122.github.io/VTNStudio/san-pham/fortune-favours/#respond</comments>

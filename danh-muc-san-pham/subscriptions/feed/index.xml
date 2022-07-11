@@ -12,12 +12,38 @@
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/subscriptions/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nhanvo122.github.io/VTNStudio</link>
 	<description></description>
-	<lastBuildDate>Mon, 27 Jun 2022 13:47:03 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Jul 2022 10:15:53 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.9.3</generator>
-</channel>
+
+<image>
+	<url>https://nhanvo122.github.io/VTNStudio/wp-content/uploads/2022/07/flower.webp</url>
+	<title>Subscriptions &#8211; Fióre</title>
+	<link>https://nhanvo122.github.io/VTNStudio</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Residential Subscription: Flower Arrangement</title>
+		<link>https://nhanvo122.github.io/VTNStudio/san-pham/residential-subscription-flower-arrangement/</link>
+					<comments>https://nhanvo122.github.io/VTNStudio/san-pham/residential-subscription-flower-arrangement/#respond</comments>
+		
+		<dc:creator><![CDATA[vonhan]]></dc:creator>
+		<pubDate>Sun, 10 Jul 2022 08:51:50 +0000</pubDate>
+				<guid isPermaLink="false">https://nhanvo122.github.io/VTNStudio/?post_type=product&#038;p=1545</guid>
+
+					<description><![CDATA[Bring fresh air to your life with our residential subscription offering. Our custom designs are offered bi-weekly or monthly. Each week a custom design is made with the season’s best, fresh blooms. Containers will vary. The photo image is a general aesthetic of the arrangement you will receive. The overall quality and design of our arrangements will always be to Scotts’ standards.]]></description>
+										<content:encoded><![CDATA[<p>Bring fresh air to your life with our residential subscription offering. Our custom designs are offered bi-weekly or monthly. Each week a custom design is made with the season’s best, fresh blooms. Containers will vary. The photo image is a general aesthetic of the arrangement you will receive. The overall quality and design of our arrangements will always be to Scotts’ standards.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nhanvo122.github.io/VTNStudio/san-pham/residential-subscription-flower-arrangement/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
 </rss>
