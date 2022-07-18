@@ -6,8 +6,7 @@
     transition-duration: 2.75s;
 }/* End custom CSS */
 /* Start custom CSS for column, class: .elementor-element-ad4200b */.zoomcol {
-    
-    overflow:clip ;
+    overflow:hidden ;
 }/* End custom CSS */
 /* Start custom CSS for image, class: .elementor-element-dc97ee1 */.imgzoom:hover {
     transform:scale(2.1);
